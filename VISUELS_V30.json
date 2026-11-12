@@ -1,0 +1,26 @@
+{
+  "version": "V30",
+  "sources": "9 images jointes, associées aux parfums correspondants",
+  "images": {
+    "hypnotic-poison-10ml-10ml-femmes": "assets/images/v30/products/hypnotic-poison-10ml-10ml-femmes.webp",
+    "devotion-d-g-women-10ml-10ml-femmes": "assets/images/v30/products/devotion-d-g-women-10ml-10ml-femmes.webp",
+    "kayali-marshmallow-81-10ml-10ml-femmes": "assets/images/v30/products/kayali-marshmallow-81-10ml-10ml-femmes.webp",
+    "delina-exclusif-10ml-10ml-femmes": "assets/images/v30/products/delina-exclusif-10ml-10ml-femmes.webp",
+    "bianco-latte-10ml-10ml-femmes": "assets/images/v30/products/bianco-latte-10ml-10ml-femmes.webp",
+    "sandale-wood-10ml-10ml-hommes": "assets/images/v30/products/sandale-wood-10ml-10ml-hommes.webp",
+    "ysl-y-edp-10ml-10ml-hommes": "assets/images/v30/products/ysl-y-edp-10ml-10ml-hommes.webp",
+    "scandal-jean-paul-gaultier-10-ml-10ml-hommes": "assets/images/v30/products/scandal-jean-paul-gaultier-10-ml-10ml-hommes.webp",
+    "french-tobacco-10ml-10ml-hommes": "assets/images/v30/products/french-tobacco-10ml-10ml-hommes.webp"
+  },
+  "replacement_count": {
+    "hypnotic-poison-10ml-10ml-femmes": 11,
+    "devotion-d-g-women-10ml-10ml-femmes": 11,
+    "kayali-marshmallow-81-10ml-10ml-femmes": 17,
+    "delina-exclusif-10ml-10ml-femmes": 27,
+    "bianco-latte-10ml-10ml-femmes": 27,
+    "sandale-wood-10ml-10ml-hommes": 11,
+    "ysl-y-edp-10ml-10ml-hommes": 11,
+    "scandal-jean-paul-gaultier-10-ml-10ml-hommes": 11,
+    "french-tobacco-10ml-10ml-hommes": 11
+  }
+}

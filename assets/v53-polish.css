@@ -1,0 +1,63 @@
+/* ZAYRA V53 — UX, accessibilité, cohérence visuelle.
+   Couche unique au-dessus des styles historiques ; sans CDN. */
+:root{--z53-focus:#dfab65;--z53-text:#2a211b;--z53-border:#e7d8c4;--z53-paper:#fffaf4}
+html{scroll-padding-top:calc(var(--navH,82px) + 18px);text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{overflow-x:clip}
+:where(a,button,input,select,textarea,[tabindex]):focus-visible{outline:3px solid var(--z53-focus)!important;outline-offset:3px!important}
+:where(button,a,select,input,textarea){touch-action:manipulation}
+::selection{background:#d8b680;color:#1c110c}
+img{height:auto;max-width:100%}
+:where(img[width][height]){height:auto}
+/* Keep image crop geometry owned by galleries/product cards; avoid accidental stretching. */
+.hero img,.photo img,.category-card img,.z50-review-media img,.v19-page-hero img,.product-stage img,.v15-final-cta img{height:100%}
+.header{box-shadow:0 7px 25px rgba(9,7,6,.08)}
+.nav a,.mobile-nav a{transition:color .18s ease}
+.nav a[aria-current="page"]{color:#f2c787;text-underline-offset:6px}
+.button{letter-spacing:.005em}
+.button:active{transform:translateY(0) scale(.99)}
+.button-gold{color:#1b100b}
+.button-gold:hover{color:#1b100b}
+/* Product cards: strong contrast on dark merchandising surfaces. */
+.related .product-card{background:#201718;border:1px solid #4a3430;border-radius:13px;overflow:hidden}
+.related .product-card .product-meta{padding:14px 15px 16px}
+.related .product-card .product-name,.related .product-card .product-name a{color:#f9eadb!important;font-weight:630}
+.related .product-card .product-type,.related .product-card .product-caption{color:#d7bfb0!important}
+.related .product-card .price{color:#efc88d!important;font-weight:730}
+.related .product-card .photo{border-radius:0}
+.related .product-card:focus-within{outline:2px solid var(--z53-focus);outline-offset:2px}
+/* Better product-gallery labels and CTA hierarchy. */
+.gallery-tab{transition:border-color .2s ease,background .2s ease;min-width:0}
+.gallery-tab:focus-visible{outline-offset:2px!important}
+.buy-actions .button{min-height:46px}
+.detail-info p,.detail-promises small{overflow-wrap:anywhere}
+/* Review carousel cards: smaller text, consistent image area, fewer giant white gaps. */
+.v17-reviews:has(.z50-review-stage){background:#f8f3ed!important}
+.z50-review-stage{border-color:#e3d2bd!important;box-shadow:0 12px 28px rgba(33,20,12,.055)!important}
+.z50-review-card{border-color:#e6d7c6!important}
+.z50-review-body h3{color:#2c201a}
+.z50-review-media img{object-fit:cover}
+.z50-review-actions .z44-arrow:not(:disabled):hover{background:#f3dfbd!important;color:#1e130e!important}
+/* Editorial widths and microcopy rhythm. */
+.v19-page-hero p,.hero-lead{max-width:60ch}
+.section-head h2{overflow-wrap:break-word}
+.product-name{overflow-wrap:anywhere}
+/* Arabic layout is a first-class typographic system, not a mirrored Latin font. */
+html[dir="rtl"] :is(h1,h2,h3,h4,.hero h1,.section-head h2,.z50-review-body h3,.z47-review-heading h2){font-family:Tahoma,'Segoe UI',Arial,sans-serif;letter-spacing:0;line-height:1.42}
+html[dir="rtl"] .brand strong,html[dir="rtl"] .brand-wordmark strong{font-family:Georgia,'Times New Roman',serif;letter-spacing:.1em}
+html[dir="rtl"] :is(.hero-copy,.z50-review-body,.v19-hero-content){text-align:start}
+html[dir="rtl"] .product-meta{direction:rtl}
+/* Accessible layout on narrow phones and tablets. */
+@media(max-width:1024px){.container{padding-inline:clamp(16px,3.2vw,28px)}.product-card .photo{overflow:hidden}.z50-review-page{gap:12px}}
+@media(max-width:680px){
+ .button{min-height:44px}
+ .hero-copy h1{overflow-wrap:normal;hyphens:auto}
+ .section{padding-block:clamp(42px,9vw,62px)}
+ .section-head h2{font-size:clamp(27px,7vw,35px)}
+ .z50-review-media img{height:160px}
+ .z50-review-page{padding:12px}
+ .z50-review-body{padding:13px}
+ .related .product-card .product-meta{padding:10px}
+ .related .product-card .product-name{font-size:12px}
+}
+@media(max-width:360px){.container{padding-inline:14px}.header .container{gap:7px}.hero h1{font-size:clamp(34px,11vw,44px)}.buy-actions{gap:7px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}:where(*, *::before, *::after){animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}

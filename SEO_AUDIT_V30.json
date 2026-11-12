@@ -1,0 +1,840 @@
+{
+  "version": "V30",
+  "html_pages": 104,
+  "product_pages": 41,
+  "needs_real_https_domain": true,
+  "pages": [
+    {
+      "page": "ar/avis-demo.html",
+      "title": "نموذج قسم الآراء | ZAYRA",
+      "description": "تعرف على الديكانت 10 مل، الفرق بينه وبين القارورة الأصلية، وكيف تختار باك العطور وتهتم به وتجهز طلبك لدى ZAYRA.",
+      "h1_count": 1,
+      "local_images": 4,
+      "canonical": ""
+    },
+    {
+      "page": "ar/catalogue.html",
+      "title": "ديكانت 10 مل | ZAYRA Fragrances",
+      "description": "اكتشف 37 عطراً في ديكانت ZAYRA سعة 10 مل للرجال والنساء.",
+      "h1_count": 1,
+      "local_images": 38,
+      "canonical": "catalogue.html"
+    },
+    {
+      "page": "ar/commande.html",
+      "title": "اختياراتك | ZAYRA Fragrances",
+      "description": "حضّر طلب ZAYRA وراجع سلة المشتريات.",
+      "h1_count": 1,
+      "local_images": 3,
+      "canonical": "commande.html"
+    },
+    {
+      "page": "ar/contact.html",
+      "title": "التواصل مع ZAYRA | ZAYRA Fragrances",
+      "description": "التواصل والاستشارة حول ديكانت وباكات ZAYRA.",
+      "h1_count": 1,
+      "local_images": 4,
+      "canonical": "contact.html"
+    },
+    {
+      "page": "ar/guide.html",
+      "title": "دليل الديكانت 10 مل | ZAYRA المغرب",
+      "description": "تعرف على الديكانت 10 مل، الفرق بينه وبين القارورة الأصلية، وكيف تختار باك العطور وتهتم به وتجهز طلبك لدى ZAYRA.",
+      "h1_count": 1,
+      "local_images": 6,
+      "canonical": "guide.html"
+    },
+    {
+      "page": "ar/index.html",
+      "title": "ديكانت 10 مل وعلب وباكات | ZAYRA Fragrances",
+      "description": "ديكانت العطور 10 مل في الرباط: 37 عطراً وباكات اكتشاف والدفع عند الاستلام بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 22,
+      "canonical": "index.html"
+    },
+    {
+      "page": "ar/informations.html",
+      "title": "معلومات قانونية | ZAYRA Fragrances",
+      "description": "المعلومات التجارية والقانونية لـ ZAYRA.",
+      "h1_count": 1,
+      "local_images": 2,
+      "canonical": "informations.html"
+    },
+    {
+      "page": "ar/livraison.html",
+      "title": "التوصيل والدفع | ZAYRA Fragrances",
+      "description": "معلومات توصيل ZAYRA والدفع عند الاستلام.",
+      "h1_count": 1,
+      "local_images": 3,
+      "canonical": "livraison.html"
+    },
+    {
+      "page": "ar/packs.html",
+      "title": "باكات وعلب الاكتشاف | ZAYRA Fragrances",
+      "description": "باكات ديو وعلب تضم 2 أو 3 أو 4 ديكانت 10 مل.",
+      "h1_count": 1,
+      "local_images": 6,
+      "canonical": "packs.html"
+    },
+    {
+      "page": "ar/parfums/9pm-night-out-10-ml-10ml-hommes.html",
+      "title": "9PM NIGHT OUT | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت 9PM NIGHT OUT سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "9pm-night-out-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/9pm-rebel-10ml-10ml-hommes.html",
+      "title": "9PM REBEL | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت 9PM REBEL سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "9pm-rebel-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/acqua-di-gio-10ml-10ml-hommes.html",
+      "title": "ACQUA DI GIO | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت ACQUA DI GIO سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "acqua-di-gio-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/acqua-di-gio-profondo-edp-10ml-10ml-hommes.html",
+      "title": "ACQUA DI GIÒ PROFONDO EDP | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت ACQUA DI GIÒ PROFONDO EDP سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "acqua-di-gio-profondo-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/arabians-tonka-10-ml-10ml-hommes.html",
+      "title": "ARABIANS TONKA | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت ARABIANS TONKA سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "arabians-tonka-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/azzaro-most-wanted-10ml-10ml-hommes.html",
+      "title": "AZZARO MOST WANTED | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت AZZARO MOST WANTED سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "azzaro-most-wanted-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/bianco-latte-10ml-10ml-femmes.html",
+      "title": "BIANCO LATTE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت BIANCO LATTE سعة 10 مل من ZAYRA بسعر 120 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "bianco-latte-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/bleu-de-chanel-edp-10ml-10ml-hommes.html",
+      "title": "BLEU DE CHANEL EDP | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت BLEU DE CHANEL EDP سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "bleu-de-chanel-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/burberry-her-edp-10ml-10ml-femmes.html",
+      "title": "BURBERRY HER EDP | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت BURBERRY HER EDP سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "burberry-her-edp-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/club-de-nuit-intense-10ml-10ml-hommes.html",
+      "title": "CLUB DE NUIT INTENSE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت CLUB DE NUIT INTENSE سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "club-de-nuit-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/coffret-decouverte-mixte-4x10.html",
+      "title": "باك اكتشاف متنوع — 4 × 10 مل | باك ديكانت | ZAYRA المغرب",
+      "description": "باك اكتشاف متنوع — 4 × 10 مل — باك من ديكانت العطور 10 مل. السعر 360 درهم. تعرّف على خيارات ZAYRA في المغرب؛ التأكيد قبل التوصيل.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "coffret-decouverte-mixte-4x10.html"
+    },
+    {
+      "page": "ar/parfums/coffret-signature-homme-3x10.html",
+      "title": "باك التوقيع الرجالي — 3 × 10 مل | باك ديكانت | ZAYRA المغرب",
+      "description": "باك التوقيع الرجالي — 3 × 10 مل — باك من ديكانت العطور 10 مل. السعر 290 درهم. تعرّف على خيارات ZAYRA في المغرب؛ التأكيد قبل التوصيل.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "coffret-signature-homme-3x10.html"
+    },
+    {
+      "page": "ar/parfums/creed-aventus-10ml.html",
+      "title": "CREED AVENTUS | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت CREED AVENTUS سعة 10 مل من ZAYRA بسعر 300 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "creed-aventus-10ml.html"
+    },
+    {
+      "page": "ar/parfums/delina-exclusif-10ml-10ml-femmes.html",
+      "title": "DELINA EXCLUSIF | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت DELINA EXCLUSIF سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "delina-exclusif-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/devotion-d-g-women-10ml-10ml-femmes.html",
+      "title": "DEVOTION D&G WOMEN | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت DEVOTION D&G WOMEN سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "devotion-d-g-women-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/dior-homme-intense-10ml-10ml-hommes.html",
+      "title": "DIOR HOMME INTENSE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت DIOR HOMME INTENSE سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "dior-homme-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/french-tobacco-10ml-10ml-hommes.html",
+      "title": "FRENCH TOBACCO | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت FRENCH TOBACCO سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "french-tobacco-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/hypnotic-poison-10ml-10ml-femmes.html",
+      "title": "HYPNOTIC POISON | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت HYPNOTIC POISON سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "hypnotic-poison-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/imagination-louis-vuitton-10ml-10ml-femmes.html",
+      "title": "IMAGINATION LOUIS VUITTON (Femmes) | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت IMAGINATION LOUIS VUITTON (Femmes) سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imagination-louis-vuitton-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/imagination-louis-vuitton-10ml.html",
+      "title": "IMAGINATION LOUIS VUITTON | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت IMAGINATION LOUIS VUITTON سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imagination-louis-vuitton-10ml.html"
+    },
+    {
+      "page": "ar/parfums/imperial-valley-gissah-10ml-10ml-femmes.html",
+      "title": "IMPERIAL VALLEY GISSAH (Femmes) | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت IMPERIAL VALLEY GISSAH (Femmes) سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imperial-valley-gissah-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/imperial-valley-gissah-10ml-10ml-hommes.html",
+      "title": "IMPERIAL VALLEY GISSAH | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت IMPERIAL VALLEY GISSAH سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imperial-valley-gissah-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/jazz-club-10ml-10ml-hommes.html",
+      "title": "JAZZ CLUB | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت JAZZ CLUB سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "jazz-club-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/kayali-marshmallow-81-10ml-10ml-femmes.html",
+      "title": "KAYALI MARSHMALLOW 81 | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت KAYALI MARSHMALLOW 81 سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "kayali-marshmallow-81-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "ar/parfums/le-beau-paradise-garden-10ml-10ml-hommes.html",
+      "title": "LE BEAU PARADISE GARDEN | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت LE BEAU PARADISE GARDEN سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "le-beau-paradise-garden-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/le-beau-parfum-10ml-10ml-hommes.html",
+      "title": "LE BEAU PARFUM | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت LE BEAU PARFUM سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "le-beau-parfum-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/light-blue-intense-10ml-10ml-hommes.html",
+      "title": "LIGHT BLUE INTENSE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت LIGHT BLUE INTENSE سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "light-blue-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/mancera-french-riviera-10ml-10ml-hommes.html",
+      "title": "MANCERA FRENCH RIVIERA | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت MANCERA FRENCH RIVIERA سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "mancera-french-riviera-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/naxos-by-xerjoff-10ml-10ml-hommes.html",
+      "title": "NAXOS BY XERJOFF | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت NAXOS BY XERJOFF سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "naxos-by-xerjoff-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/nishane-hacivat-10ml-10ml-hommes.html",
+      "title": "NISHANE HACIVAT | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت NISHANE HACIVAT سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "nishane-hacivat-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/pack-aventus-bleu-chanel.html",
+      "title": "ديو أفينتوس + بلو دو شانيل — 2 × 10 مل | باك ديكانت | ZAYRA المغرب",
+      "description": "ديو أفينتوس + بلو دو شانيل — 2 × 10 مل — باك من ديكانت العطور 10 مل. السعر 230 درهم. تعرّف على خيارات ZAYRA في المغرب؛ التأكيد قبل التوصيل.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "pack-aventus-bleu-chanel.html"
+    },
+    {
+      "page": "ar/parfums/pack-prada-paradoxe-burberry-her.html",
+      "title": "ديو برادا بارادوكس + بربري هير — 2 × 10 مل | باك ديكانت | ZAYRA المغرب",
+      "description": "ديو برادا بارادوكس + بربري هير — 2 × 10 مل — باك من ديكانت العطور 10 مل. السعر 200 درهم. تعرّف على خيارات ZAYRA في المغرب؛ التأكيد قبل التوصيل.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "pack-prada-paradoxe-burberry-her.html"
+    },
+    {
+      "page": "ar/parfums/prada-paradoxe-10ml.html",
+      "title": "PRADA PARADOXE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت PRADA PARADOXE سعة 10 مل من ZAYRA بسعر 110 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "prada-paradoxe-10ml.html"
+    },
+    {
+      "page": "ar/parfums/sandale-wood-10ml-10ml-hommes.html",
+      "title": "SANDALE WOOD | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت SANDALE WOOD سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "sandale-wood-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/sauvage-edp-10ml-10ml-hommes.html",
+      "title": "SAUVAGE EDP | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت SAUVAGE EDP سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "sauvage-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/scandal-jean-paul-gaultier-10-ml-10ml-hommes.html",
+      "title": "SCANDAL JEAN PAUL GAULTIER | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت SCANDAL JEAN PAUL GAULTIER سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "scandal-jean-paul-gaultier-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/spice-bomb-extrem-10-ml-10ml-hommes.html",
+      "title": "SPICEBOMB EXTREME | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت SPICEBOMB EXTREME سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "spice-bomb-extrem-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/stronger-with-you-powerfully-10ml-10ml-hommes.html",
+      "title": "STRONGER WITH YOU POWERFULLY | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت STRONGER WITH YOU POWERFULLY سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "stronger-with-you-powerfully-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/ultra-male-10ml-10ml-hommes.html",
+      "title": "ULTRA MALE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت ULTRA MALE سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "ultra-male-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/valentino-born-in-roma-intense-10ml-10ml-hommes.html",
+      "title": "VALENTINO BORN IN ROMA INTENSE | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت VALENTINO BORN IN ROMA INTENSE سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "valentino-born-in-roma-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums/ysl-y-edp-10ml-10ml-hommes.html",
+      "title": "YSL Y EDP | ديكانت 10 مل | ZAYRA المغرب",
+      "description": "ديكانت YSL Y EDP سعة 10 مل من ZAYRA بسعر 100 درهم. العطر المرجعي ليس قارورة للبيع. الطلب والتوصيل بالمغرب بعد التأكيد.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "ysl-y-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "ar/parfums-arabes.html",
+      "title": "عطور عربية | ZAYRA Fragrances",
+      "description": "اكتشف مجموعة عطور عربية في ديكانتات 10 مل حسب التوفر.",
+      "h1_count": 1,
+      "local_images": 5,
+      "canonical": "parfums-arabes.html"
+    },
+    {
+      "page": "avis-demo.html",
+      "title": "Démo — espace avis | ZAYRA",
+      "description": "Qu’est-ce qu’un décant 10 ml ? Découvrez le format réellement vendu, les packs, les conseils de conservation et le parcours de commande ZAYRA au Maroc.",
+      "h1_count": 1,
+      "local_images": 4,
+      "canonical": ""
+    },
+    {
+      "page": "catalogue.html",
+      "title": "Les décants 10 ml | ZAYRA Fragrances",
+      "description": "Découvrez 37 fragrances en décants 10 ml ZAYRA, pour lui et pour elle.",
+      "h1_count": 1,
+      "local_images": 38,
+      "canonical": "catalogue.html"
+    },
+    {
+      "page": "commande.html",
+      "title": "Votre sélection | ZAYRA Fragrances",
+      "description": "Préparez votre demande de commande ZAYRA et récapitulez le panier.",
+      "h1_count": 1,
+      "local_images": 3,
+      "canonical": "commande.html"
+    },
+    {
+      "page": "contact.html",
+      "title": "Contact ZAYRA | ZAYRA Fragrances",
+      "description": "Contact et conseil sur les décants et packs ZAYRA Fragrances.",
+      "h1_count": 1,
+      "local_images": 4,
+      "canonical": "contact.html"
+    },
+    {
+      "page": "guide.html",
+      "title": "Guide du décant 10 ml | ZAYRA Fragrances Maroc",
+      "description": "Qu’est-ce qu’un décant 10 ml ? Découvrez le format réellement vendu, les packs, les conseils de conservation et le parcours de commande ZAYRA au Maroc.",
+      "h1_count": 1,
+      "local_images": 6,
+      "canonical": "guide.html"
+    },
+    {
+      "page": "index.html",
+      "title": "Décants 10 ml, coffrets et packs | ZAYRA Fragrances",
+      "description": "Décants de parfum de 10 ml à Rabat : 37 fragrances, coffrets découverte et paiement à la réception après confirmation.",
+      "h1_count": 1,
+      "local_images": 22,
+      "canonical": "index.html"
+    },
+    {
+      "page": "informations.html",
+      "title": "Informations légales | ZAYRA Fragrances",
+      "description": "Informations commerciales et légales de ZAYRA Fragrances.",
+      "h1_count": 1,
+      "local_images": 2,
+      "canonical": "informations.html"
+    },
+    {
+      "page": "livraison.html",
+      "title": "Livraison et paiement | ZAYRA Fragrances",
+      "description": "Informations sur la livraison et le paiement à la réception de ZAYRA.",
+      "h1_count": 1,
+      "local_images": 3,
+      "canonical": "livraison.html"
+    },
+    {
+      "page": "packs.html",
+      "title": "Packs & coffrets découverte | ZAYRA Fragrances",
+      "description": "Duos et coffrets de 2, 3 ou 4 décants de 10 ml, à découvrir ou à offrir.",
+      "h1_count": 1,
+      "local_images": 6,
+      "canonical": "packs.html"
+    },
+    {
+      "page": "parfums/9pm-night-out-10-ml-10ml-hommes.html",
+      "title": "Décant 10 ml 9PM NIGHT OUT | ZAYRA Maroc",
+      "description": "Décant 10 ml 9PM NIGHT OUT à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Lavande, Fève tonka. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "9pm-night-out-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/9pm-rebel-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml 9PM REBEL | ZAYRA Maroc",
+      "description": "Décant 10 ml 9PM REBEL à 100 DH chez ZAYRA Maroc. Notes : Ananas, Cèdre, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "9pm-rebel-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/acqua-di-gio-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml ACQUA DI GIO | ZAYRA Maroc",
+      "description": "Décant 10 ml ACQUA DI GIO à 100 DH chez ZAYRA Maroc. Notes : Citron, Accords marins, Cèdre. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "acqua-di-gio-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/acqua-di-gio-profondo-edp-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml ACQUA DI GIÒ PROFONDO EDP | ZAYRA Maroc",
+      "description": "Décant 10 ml ACQUA DI GIÒ PROFONDO EDP à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Accords marins. Grand flacon non inclus. Livraison sur confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "acqua-di-gio-profondo-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/arabians-tonka-10-ml-10ml-hommes.html",
+      "title": "Décant 10 ml ARABIANS TONKA | ZAYRA Maroc",
+      "description": "Décant 10 ml ARABIANS TONKA à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Rose, Oud. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "arabians-tonka-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/azzaro-most-wanted-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml AZZARO MOST WANTED | ZAYRA Maroc",
+      "description": "Décant 10 ml AZZARO MOST WANTED à 100 DH chez ZAYRA Maroc. Notes : Cardamome, Caramel, Bois. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "azzaro-most-wanted-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/bianco-latte-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml BIANCO LATTE | ZAYRA Maroc",
+      "description": "Décant 10 ml BIANCO LATTE à 120 DH chez ZAYRA Maroc. Notes : Caramel, Miel, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "bianco-latte-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/bleu-de-chanel-edp-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml BLEU DE CHANEL EDP | ZAYRA Maroc",
+      "description": "Décant 10 ml BLEU DE CHANEL EDP à 100 DH chez ZAYRA Maroc. Notes : Citron, Encens, Cèdre. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "bleu-de-chanel-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/burberry-her-edp-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml BURBERRY HER EDP | ZAYRA Maroc",
+      "description": "Décant 10 ml BURBERRY HER EDP à 100 DH chez ZAYRA Maroc. Notes : Baies rouges, Fleurs, Musc. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "burberry-her-edp-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/club-de-nuit-intense-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml CLUB DE NUIT INTENSE | ZAYRA Maroc",
+      "description": "Décant 10 ml CLUB DE NUIT INTENSE à 100 DH chez ZAYRA Maroc. Notes : Citron, Bouleau, Musc. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "club-de-nuit-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/coffret-decouverte-mixte-4x10.html",
+      "title": "COFFRET DÉCOUVERTE MIXTE — 4 × 10 ml | Coffret de décants ZAYRA Maroc",
+      "description": "COFFRET DÉCOUVERTE MIXTE — 4 × 10 ml : pack de décants de 10 ml à 360 DH. Découvrez le contenu du coffret ZAYRA et préparez votre commande au Maroc.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "coffret-decouverte-mixte-4x10.html"
+    },
+    {
+      "page": "parfums/coffret-signature-homme-3x10.html",
+      "title": "COFFRET SIGNATURE HOMME — 3 × 10 ml | Coffret de décants ZAYRA Maroc",
+      "description": "COFFRET SIGNATURE HOMME — 3 × 10 ml : pack de décants de 10 ml à 290 DH. Découvrez le contenu du coffret ZAYRA et préparez votre commande au Maroc.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "coffret-signature-homme-3x10.html"
+    },
+    {
+      "page": "parfums/creed-aventus-10ml.html",
+      "title": "Décant 10 ml CREED AVENTUS | ZAYRA Maroc",
+      "description": "Décant 10 ml CREED AVENTUS à 300 DH chez ZAYRA Maroc. Notes : Ananas, Bouleau, Musc. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "creed-aventus-10ml.html"
+    },
+    {
+      "page": "parfums/delina-exclusif-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml DELINA EXCLUSIF | ZAYRA Maroc",
+      "description": "Décant 10 ml DELINA EXCLUSIF à 100 DH chez ZAYRA Maroc. Notes : Litchi, Rose, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "delina-exclusif-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/devotion-d-g-women-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml DEVOTION D&G WOMEN | ZAYRA Maroc",
+      "description": "Décant 10 ml DEVOTION D&G WOMEN à 100 DH chez ZAYRA Maroc. Notes : Citron, Fleur d’oranger. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "devotion-d-g-women-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/dior-homme-intense-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml DIOR HOMME INTENSE | ZAYRA Maroc",
+      "description": "Décant 10 ml DIOR HOMME INTENSE à 100 DH chez ZAYRA Maroc. Notes : Iris, Bois, Musc. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "dior-homme-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/french-tobacco-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml FRENCH TOBACCO | ZAYRA Maroc",
+      "description": "Décant 10 ml FRENCH TOBACCO à 100 DH chez ZAYRA Maroc. Notes : Mandarine, Tabac, Encens. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "french-tobacco-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/hypnotic-poison-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml HYPNOTIC POISON | ZAYRA Maroc",
+      "description": "Décant 10 ml HYPNOTIC POISON à 100 DH chez ZAYRA Maroc. Notes : Amande, Jasmin, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "hypnotic-poison-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/imagination-louis-vuitton-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml IMAGINATION LOUIS VUITTON (Femmes) | ZAYRA Maroc",
+      "description": "Décant 10 ml IMAGINATION LOUIS VUITTON (Femmes) à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Thé. Grand flacon non inclus. Livraison sur confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imagination-louis-vuitton-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/imagination-louis-vuitton-10ml.html",
+      "title": "Décant 10 ml IMAGINATION LOUIS VUITTON | ZAYRA Maroc",
+      "description": "Décant 10 ml IMAGINATION LOUIS VUITTON à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Thé. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imagination-louis-vuitton-10ml.html"
+    },
+    {
+      "page": "parfums/imperial-valley-gissah-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml IMPERIAL VALLEY GISSAH (Femmes) | ZAYRA Maroc",
+      "description": "Décant 10 ml IMPERIAL VALLEY GISSAH (Femmes) à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Oud. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imperial-valley-gissah-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/imperial-valley-gissah-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml IMPERIAL VALLEY GISSAH | ZAYRA Maroc",
+      "description": "Décant 10 ml IMPERIAL VALLEY GISSAH à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Oud, Cuir. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "imperial-valley-gissah-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/jazz-club-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml JAZZ CLUB | ZAYRA Maroc",
+      "description": "Décant 10 ml JAZZ CLUB à 100 DH chez ZAYRA Maroc. Notes : Rhum, Tabac, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "jazz-club-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/kayali-marshmallow-81-10ml-10ml-femmes.html",
+      "title": "Décant 10 ml KAYALI MARSHMALLOW 81 | ZAYRA Maroc",
+      "description": "Décant 10 ml KAYALI MARSHMALLOW 81 à 100 DH chez ZAYRA Maroc. Notes : Pomme verte, Guimauve. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "kayali-marshmallow-81-10ml-10ml-femmes.html"
+    },
+    {
+      "page": "parfums/le-beau-paradise-garden-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml LE BEAU PARADISE GARDEN | ZAYRA Maroc",
+      "description": "Décant 10 ml LE BEAU PARADISE GARDEN à 100 DH chez ZAYRA Maroc. Notes : Noix de coco, Figue verte. Grand flacon non inclus. Livraison sur confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "le-beau-paradise-garden-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/le-beau-parfum-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml LE BEAU PARFUM | ZAYRA Maroc",
+      "description": "Décant 10 ml LE BEAU PARFUM à 100 DH chez ZAYRA Maroc. Notes : Noix de coco, Ambre, Santal. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "le-beau-parfum-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/light-blue-intense-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml LIGHT BLUE INTENSE | ZAYRA Maroc",
+      "description": "Décant 10 ml LIGHT BLUE INTENSE à 100 DH chez ZAYRA Maroc. Notes : Citron, Accords marins, Musc. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "light-blue-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/mancera-french-riviera-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml MANCERA FRENCH RIVIERA | ZAYRA Maroc",
+      "description": "Décant 10 ml MANCERA FRENCH RIVIERA à 100 DH chez ZAYRA Maroc. Notes : Mandarine, Accords marins. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "mancera-french-riviera-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/naxos-by-xerjoff-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml NAXOS BY XERJOFF | ZAYRA Maroc",
+      "description": "Décant 10 ml NAXOS BY XERJOFF à 100 DH chez ZAYRA Maroc. Notes : Lavande, Miel, Tabac. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "naxos-by-xerjoff-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/nishane-hacivat-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml NISHANE HACIVAT | ZAYRA Maroc",
+      "description": "Décant 10 ml NISHANE HACIVAT à 100 DH chez ZAYRA Maroc. Notes : Ananas, Jasmin, Bois. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "nishane-hacivat-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/pack-aventus-bleu-chanel.html",
+      "title": "AVENTUS + BLEU DE CHANEL — Duo 2 × 10 ml | Coffret de décants ZAYRA Maroc",
+      "description": "AVENTUS + BLEU DE CHANEL — Duo 2 × 10 ml : pack de décants de 10 ml à 230 DH. Découvrez le contenu du coffret ZAYRA et préparez votre commande au Maroc.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "pack-aventus-bleu-chanel.html"
+    },
+    {
+      "page": "parfums/pack-prada-paradoxe-burberry-her.html",
+      "title": "PRADA PARADOXE + BURBERRY HER — Duo 2 × 10 ml | Coffret de décants ZAYRA Maroc",
+      "description": "PRADA PARADOXE + BURBERRY HER — Duo 2 × 10 ml : pack de décants de 10 ml à 200 DH. Découvrez le contenu du coffret ZAYRA et préparez votre commande au Maroc.",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "pack-prada-paradoxe-burberry-her.html"
+    },
+    {
+      "page": "parfums/prada-paradoxe-10ml.html",
+      "title": "Décant 10 ml PRADA PARADOXE | ZAYRA Maroc",
+      "description": "Décant 10 ml PRADA PARADOXE à 110 DH chez ZAYRA Maroc. Notes : Fleur d’oranger, Jasmin, Ambre. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "prada-paradoxe-10ml.html"
+    },
+    {
+      "page": "parfums/sandale-wood-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml SANDALE WOOD | ZAYRA Maroc",
+      "description": "Décant 10 ml SANDALE WOOD à 100 DH chez ZAYRA Maroc. Notes : Santal, Bois, Musc. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "sandale-wood-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/sauvage-edp-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml SAUVAGE EDP | ZAYRA Maroc",
+      "description": "Décant 10 ml SAUVAGE EDP à 100 DH chez ZAYRA Maroc. Notes : Bergamote, Épices, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "sauvage-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/scandal-jean-paul-gaultier-10-ml-10ml-hommes.html",
+      "title": "Décant 10 ml SCANDAL JEAN PAUL GAULTIER | ZAYRA Maroc",
+      "description": "Décant 10 ml SCANDAL JEAN PAUL GAULTIER à 100 DH chez ZAYRA Maroc. Notes : Sauge, Fève tonka. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "scandal-jean-paul-gaultier-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/spice-bomb-extrem-10-ml-10ml-hommes.html",
+      "title": "Décant 10 ml SPICEBOMB EXTREME | ZAYRA Maroc",
+      "description": "Décant 10 ml SPICEBOMB EXTREME à 100 DH chez ZAYRA Maroc. Notes : Épices, Tabac, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "spice-bomb-extrem-10-ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/stronger-with-you-powerfully-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml STRONGER WITH YOU POWERFULLY | ZAYRA Maroc",
+      "description": "Décant 10 ml STRONGER WITH YOU POWERFULLY à 100 DH chez ZAYRA Maroc. Notes : Mandarine, Lavande. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "stronger-with-you-powerfully-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/ultra-male-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml ULTRA MALE | ZAYRA Maroc",
+      "description": "Décant 10 ml ULTRA MALE à 100 DH chez ZAYRA Maroc. Notes : Poire, Lavande, Vanille. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "ultra-male-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/valentino-born-in-roma-intense-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml VALENTINO BORN IN ROMA INTENSE | ZAYRA Maroc",
+      "description": "Décant 10 ml VALENTINO BORN IN ROMA INTENSE à 100 DH chez ZAYRA Maroc. Notes : Lavande, Vétiver. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "valentino-born-in-roma-intense-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums/ysl-y-edp-10ml-10ml-hommes.html",
+      "title": "Décant 10 ml YSL Y EDP | ZAYRA Maroc",
+      "description": "Décant 10 ml YSL Y EDP à 100 DH chez ZAYRA Maroc. Notes : Sauge, Cèdre, Fève tonka. Grand flacon non vendu. Livraison au Maroc après confirmation.",
+      "h1_count": 1,
+      "local_images": 12,
+      "canonical": "ysl-y-edp-10ml-10ml-hommes.html"
+    },
+    {
+      "page": "parfums-arabes/ana-malik.html",
+      "title": "Ana Malik — ZAYRA Fragrances",
+      "description": "Un univers ambré et boisé, à découvrir selon disponibilité. (disponibilité sur demande)",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "ana-malik.html"
+    },
+    {
+      "page": "parfums-arabes/khamrah.html",
+      "title": "Khamrah — ZAYRA Fragrances",
+      "description": "Une fragrance orientale au caractère chaleureux et gourmand. (disponibilité sur demande)",
+      "h1_count": 1,
+      "local_images": 8,
+      "canonical": "khamrah.html"
+    },
+    {
+      "page": "parfums-arabes.html",
+      "title": "Parfums arabes | ZAYRA Fragrances",
+      "description": "Découvrez nos parfums orientaux et demandez la disponibilité des décants ZAYRA 10 ml.",
+      "h1_count": 1,
+      "local_images": 5,
+      "canonical": "parfums-arabes.html"
+    }
+  ]
+}

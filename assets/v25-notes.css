@@ -1,0 +1,28 @@
+/* ZAYRA V25 — photographic note tiles, clean profile layout */
+.z25-olfactory{margin:22px 0 0;padding:18px 0 0;border-top:1px solid rgba(157,117,74,.23);color:#271d17;max-width:690px}
+.z25-olfactory-head{display:flex;gap:12px;align-items:baseline;justify-content:space-between;flex-wrap:wrap;margin-bottom:14px}
+.z25-olfactory-kicker{font-size:12px;font-weight:600;letter-spacing:.025em;color:#8f6b43}
+.z25-olfactory-family{font-family:Georgia,'Times New Roman',serif;color:#33241b;font-size:clamp(17px,1.7vw,23px);line-height:1.2;font-weight:500}
+.z25-note-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;max-width:590px}
+.z25-note{margin:0;min-width:0}
+.z25-note img{display:block;width:100%;height:auto;aspect-ratio:1.18/1;object-fit:cover;border-radius:9px;background:#f3eadc;transition:transform .25s ease}
+.z25-note figcaption{display:flex;align-items:baseline;justify-content:space-between;gap:5px;padding:8px 2px 0}
+.z25-note figcaption strong{font-size:13px;font-weight:600;color:#39291f;line-height:1.25}
+.z25-note figcaption span{font-size:10px;color:#9c826b;white-space:nowrap}
+.z25-note-caution{display:block;font-size:10px;color:#93765f;margin-top:10px}
+.z204-detail-copy .z25-olfactory{max-width:650px}
+@media(hover:hover) and (prefers-reduced-motion:no-preference){.z25-note:hover img{transform:translateY(-2px)}}
+@media(max-width:650px){.z25-olfactory{padding-top:15px;margin-top:18px}.z25-note-row{gap:8px}.z25-note img{aspect-ratio:1/1}.z25-note figcaption{display:block}.z25-note figcaption strong{display:block;font-size:11px}.z25-note figcaption span{font-size:10px}.z25-olfactory-head{gap:7px}}
+html[dir=rtl] .z25-note figcaption{text-align:right}
+@media (prefers-reduced-motion:reduce){.z25-note img{transition:none}}
+/* V26: airy ingredient photography with transparent silhouettes */
+.z25-olfactory{margin-top:16px;padding-top:16px}
+.z25-note-row{max-width:520px;gap:14px}
+.z25-note{display:flex;flex-direction:column;align-items:center;text-align:center}
+.z25-note img{width:100%;height:118px;aspect-ratio:1/1;object-fit:contain;border-radius:0;background:transparent!important;box-shadow:none!important}
+.z25-note figcaption{display:block;text-align:center;padding:2px 0 0}
+.z25-note figcaption strong{font-size:13px}
+.z25-note figcaption span{display:block;font-size:11px;margin-top:2px}
+html[dir=rtl] .z25-note figcaption{text-align:center}
+.live-stock{font-size:12px;color:#a65f33;padding:7px 0}
+@media(max-width:650px){.z25-note-row{gap:10px}.z25-note img{height:82px}.z25-note figcaption strong{font-size:11px}.z25-note figcaption span{font-size:10px}}

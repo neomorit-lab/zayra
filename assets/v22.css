@@ -1,0 +1,74 @@
+/* ZAYRA V22 — intentional editorial product design */
+:root{--v22-cream:#f8f5f0;--v22-ink:#241c18;--v22-muted:#74675c;--v22-gold:#cba262}
+/* Remove decorative marketing filler; filters are immediately accessible. */
+.page-title:has(+.catalog-section){padding:34px 0 22px!important;min-height:0!important}
+.page-title:has(+.catalog-section) h1{font-size:clamp(34px,4vw,54px)!important;margin:0!important}
+.catalog-section{padding-top:20px!important}
+/* Product pages: light, open editorial layout. Nav and footer retain ZAYRA's dark identity. */
+main:has(.product-layout){background:var(--v22-cream)!important;color:var(--v22-ink)!important}
+main:has(.product-layout) .container{max-width:1280px}
+main:has(.product-layout) .breadcrumb{padding:22px 0 16px!important;color:var(--v22-muted)!important;font-size:12px}
+main:has(.product-layout) .breadcrumb a{color:#8a7460!important}
+.product-layout{display:grid!important;grid-template-columns:minmax(0,1.02fr) minmax(0,.98fr)!important;gap:clamp(24px,4vw,64px)!important;align-items:start!important;padding:5px 0 52px!important}
+.product-layout>div:first-child{min-width:0!important;width:100%}
+.product-stage{background:#22201e!important;border-radius:12px!important;height:auto!important;aspect-ratio:1 / 1.025!important;min-height:0!important;overflow:hidden!important}
+.product-stage #gallery-image{width:100%!important;height:100%!important;object-fit:contain!important;object-position:center!important}
+.product-stage .stage-tag{z-index:2;font-size:11px!important;letter-spacing:.01em!important}
+.gallery-tabs.z204-gallery{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr))!important;gap:8px!important;overflow:visible!important;padding:9px 0!important;margin-top:6px!important;align-items:start!important;flex-direction:row!important}
+.gallery-tabs.z204-gallery .gallery-tab{width:100%!important;min-width:0!important;min-height:0!important;flex:auto!important;background:#eae3da!important;border:1px solid #e1d6c9!important;border-radius:8px!important;padding:4px!important;color:#40352d!important;box-shadow:none!important}
+.gallery-tabs.z204-gallery .gallery-tab.active{border:2px solid #b88c53!important;padding:3px!important}
+.gallery-tabs.z204-gallery .gallery-tab img{width:100%!important;height:80px!important;object-fit:contain!important;background:#211b18;border-radius:5px!important}
+.gallery-tabs.z204-gallery .gallery-tab span{display:block!important;font-size:10px!important;line-height:1.25!important;margin-top:5px!important;color:#3e342a!important}
+.gallery-note{display:none!important}
+.detail-info{color:var(--v22-ink)!important;padding:12px 0 0!important;min-width:0!important}
+.detail-info :is(h1,h2,h3,p,strong){color:inherit}
+.detail-info h1{color:#231c19!important;font-size:clamp(35px,4.6vw,58px)!important;line-height:1.06!important;letter-spacing:-.045em!important;margin:4px 0 18px!important;font-weight:500!important}
+.detail-info .brand-tag{color:#95734e!important;font-size:12px!important;letter-spacing:.08em!important}
+.buy-panel{margin:0!important;padding:0!important;color:#281e19!important;border:0!important;box-shadow:none!important;background:none!important}
+.buy-panel .buy-price{color:#2b211c!important;font-size:clamp(28px,3vw,38px)!important;line-height:1.2!important;margin:0 0 20px!important;font-weight:550!important}
+.buy-panel .buy-price small{display:none!important}
+.buy-actions{display:flex!important;flex-wrap:nowrap!important;gap:10px!important;align-items:stretch!important;margin-top:0!important}
+.buy-actions .qty{border:1px solid #d5c5b0!important;border-radius:8px!important;background:transparent!important;color:#281e19!important;flex:0 0 106px;min-width:106px}
+.buy-actions .qty button,.buy-actions .qty output{color:#281e19!important;background:transparent!important}
+.buy-actions .button{background:#241d1a!important;color:#fff!important;border-radius:8px!important;box-shadow:none!important;min-height:50px!important;font-size:14px!important;flex:1}
+.buy-actions .button:hover{background:#4a362b!important}
+.buy-panel .purchase-explainer{font-size:12px!important;line-height:1.5!important;color:#77685b!important;margin:12px 0 0!important;padding:0!important;border:0!important;background:none!important;max-width:540px}
+.buy-panel .trust-list{display:none!important}
+.v21-olfactory{border:0!important;border-top:1px solid #ded1c2!important;margin:25px 0 0!important;padding:18px 0 0!important;color:#2d231e!important}
+.v21-olfactory .v21-olfactory-kicker{font-size:12px!important;letter-spacing:0!important;text-transform:none!important;margin:0 0 8px!important;color:#896749!important}
+.v21-olfactory strong{color:#2d231e!important;font-size:19px!important}
+.v21-olfactory p{font-size:13px!important;color:#66584d!important;margin:5px 0!important}
+.v21-olfactory small{display:none!important}
+.v21-pack-composition{border-top:1px solid #ded1c2!important;color:#66584d!important;font-size:13px!important;margin:22px 0 0!important;padding:14px 0!important}
+.v21-pack-composition b{color:#8b6542!important}
+.z203-product-pair,.z203-product-faq,.v17-reviews:has(.v17-review-empty){display:none!important}
+/* Quiet recommendations; three products, no mechanical decorative bars. */
+.v13-light-related{padding:28px 0 45px!important;background:#f8f5f0!important}
+.v13-light-related .section-head{margin-bottom:15px!important}
+.v13-light-related h2{font-size:clamp(27px,2.5vw,34px)!important;color:#271e19!important}
+.v13-light-related .products-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:14px!important}
+.v13-light-related .product-card{background:#201a19!important}
+/* Packs: full product count, subtle image interaction rather than duplicating entire sections. */
+body:has(.products-grid .product-card[data-cat="P"]) .page-title{padding-block:28px!important}
+body:has(.products-grid .product-card[data-cat="P"]) .page-title p{display:none!important}
+/* More generous whitespace for products without filling it with filler text. */
+@media(max-width:900px){.product-layout{grid-template-columns:minmax(0,1fr)!important;gap:20px!important}.detail-info{padding:0!important}.product-stage{aspect-ratio:1/.96!important}.v13-light-related .products-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:650px){.product-layout{padding-bottom:24px!important}.product-stage{aspect-ratio:1/1.10!important;height:auto!important}.gallery-tabs.z204-gallery{grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:6px!important}.gallery-tabs.z204-gallery .gallery-tab img{height:58px!important}.gallery-tabs.z204-gallery .gallery-tab span{font-size:9px!important}.detail-info h1{font-size:35px!important;margin:8px 0 12px!important}.buy-actions .qty{flex-basis:100px;min-width:100px}.v13-light-related .products-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+
+/* V22.1 finishing: compact, one-row mobile gallery and concise pack names */
+.v22-pack-count{font-size:13px!important;color:#806647!important;margin:-8px 0 18px!important;letter-spacing:.01em}
+.product-layout:has(.v22-pack-count) .detail-info h1{font-size:clamp(32px,3.4vw,48px)!important;letter-spacing:-.037em!important}
+@media(max-width:650px){
+ .gallery-tabs.z204-gallery{display:flex!important;flex-wrap:nowrap!important;overflow-x:auto!important;max-width:100%!important;scrollbar-width:thin;gap:7px!important;padding:7px 0 10px!important}
+ .gallery-tabs.z204-gallery .gallery-tab{flex:0 0 79px!important;min-width:79px!important;width:79px!important;min-height:0!important}
+ .gallery-tabs.z204-gallery .gallery-tab img{height:59px!important}
+ .gallery-tabs.z204-gallery .gallery-tab span{font-size:9px!important}
+ .product-stage{height:min(88vw,340px)!important;aspect-ratio:auto!important}
+ .detail-info h1{font-size:33px!important}
+ .product-layout:has(.v22-pack-count) .detail-info h1{font-size:31px!important}
+}
+
+/* V28: disponibilité locale discrète (démonstration uniquement) */
+.buy-panel .z28-stock{margin:10px 0 14px;font-size:12px;font-weight:650;color:#795c37}.buy-panel .z28-stock[data-status="available"]{color:#356a47}.buy-panel .z28-stock[data-status="unavailable"]{color:#a74436}.buy-panel .z28-stock[data-status="unknown"]{color:#8b7760}
+
+.live-pack-composition{font-size:12px;color:#725a46;line-height:1.5;margin:10px 0}.product-card .live-stock{font-size:11px;color:#a2523a;margin:4px 0}

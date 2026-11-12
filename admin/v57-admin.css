@@ -1,0 +1,87 @@
+/* ZAYRA — gestion compacte, orientée lecture des données */
+:root{--bg:#f8f6f2;--card:#fff;--line:#ede8e1;--ink:#2b2521;--muted:#776f68;--shadow:none}
+body{background:var(--bg)}
+.sidebar{background:#181112;border-right:0}
+.sidebar nav{gap:0}
+.sidebar nav button{min-height:38px;font-size:12.4px;padding:8px 10px;border-radius:6px;letter-spacing:0}
+.sidebar nav button.selected{background:#382728;box-shadow:inset 2px 0 #d1a46b;color:#fff}
+.sidebar nav button:hover{background:#342528}
+.sidebar .side-group-label{color:#927d72;font-weight:650;margin-top:8px;font-size:9px}
+.brand{padding-bottom:18px;border-bottom-color:#ffffff14}
+.brand-admin-label{border:0;background:#ffffff12;color:#d7b587}
+.sidebar-bottom{font-size:11px;color:#bfb4aa;display:flex;align-items:center;gap:8px}
+.topbar{height:64px;min-height:64px;background:#fffdfa;border-bottom:1px solid #eeeae4}
+.topbar .topbar-label{font-size:12px;font-weight:620}
+.workspace{padding-top:24px}
+.page-heading{margin-bottom:22px}
+.page-heading h1{font-size:clamp(24px,2.4vw,32px);font-weight:640;letter-spacing:-.045em}
+.page-heading .eyebrow,#page-subtitle{display:none!important}
+#content{min-width:0}
+.btn{border-color:#e6e1db;background:#fffdfa;border-radius:7px;font-weight:600}
+.btn-primary{background:#2b1d1d;border-color:#2b1d1d;color:#fff}
+.btn-primary:hover{background:#503439;border-color:#503439}
+.btn-ghost{background:transparent;border-color:transparent}
+.btn-danger{background:#fff;border-color:#f2dcda}
+.cards{gap:1px;background:#eae4dd;border-radius:10px;overflow:hidden;border:1px solid #eee7df;margin-bottom:19px}
+.metric,.panel,.pack-card{box-shadow:none!important;transform:none!important}
+.metric{background:#fff;min-width:0;border:0;border-radius:0!important;padding:17px 20px 18px}
+.metric-icon{background:transparent;color:#ad8454;border-radius:0}
+.metric-title{font-size:11.5px;color:#7c746e;font-weight:550}
+.metric-value{font-size:clamp(23px,2.1vw,31px);letter-spacing:-.045em}
+.metric-note,.metric .metric-note{display:none!important}
+.panel{border:0;background:#fff;border-radius:10px;padding:20px;margin-bottom:15px}
+.panel-head{border-bottom:1px solid #f2eee8;padding:0 0 12px;margin-bottom:8px}
+.panel-head h2{font-size:14px;font-weight:670}
+.panel-head p,.panel .hint{font-size:11px}
+.row-entry{border-bottom:1px solid #f1ede8}
+.row-entry:last-child{border-bottom:0}
+.row-entry>div small{color:#8c8177}
+.table-scroller{border:0;border-radius:0}
+.data-table{border:0}
+.data-table th{background:#fff;color:#998779;border-bottom:1px solid #ece5dc;font-weight:620}
+.data-table td{border-bottom:1px solid #f1ede7}
+.data-table th,.data-table td{padding:11px 13px}
+.data-table tr:hover{background:#fcfaf7}
+.source-chip{background:#f7f3ed;border:0;border-radius:6px;font-weight:550}
+.filters{background:#fff;border:0;border-radius:8px;padding:0;margin-bottom:14px}
+.field,.filters input,.filters select,textarea{background:#fff;border:1px solid #e8e3dc;border-radius:7px}
+.work-summary{gap:6px}
+.work-summary span{background:#f7f4ef;border:0;border-radius:6px}
+.pack-card{border:1px solid #f0ebe5!important;overflow:hidden}
+.info-box:not(.warning):not(.danger){display:none!important}
+.notice-quiet{font-size:10px;color:#8e8177}
+.callout{border:0;background:#faf8f4;border-radius:8px}
+.quick-tile{border:0;background:#faf8f4}
+.empty-state{padding:20px 12px}
+.empty-state p:empty{display:none}
+.dashboard-actions{margin:18px 0 20px}
+.z57-toolbar{gap:8px}
+.z57-chart-grid{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(290px,1fr);gap:15px;margin:0 0 19px}
+.z57-chart-panel{min-width:0;background:#fff;border-radius:10px;padding:18px 18px 12px;overflow:hidden;display:flex;flex-direction:column}
+.z57-chart-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px;min-height:29px}
+.z57-chart-head h2{margin:0;color:#30251e;font-size:13px;font-weight:690;letter-spacing:-.012em}
+.z57-chart-select{min-height:28px!important;border:0!important;background:#f5f1eb!important;color:#54483e;border-radius:6px!important;padding:4px 22px 4px 8px;font-size:11px}
+.z57-chart-canvas{flex:1;min-width:0;min-height:174px;display:flex;align-items:center;justify-content:center}
+.z57-svg{display:block;max-width:100%;width:100%;height:auto;overflow:visible}
+.z57-svg text{font-family:system-ui,-apple-system,'Segoe UI',Arial,sans-serif}
+.z57-chart-empty{margin:0;font-size:12px;color:#9b9085;text-align:center}
+.z57-report-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:4px 0 25px}
+.z57-operations>.panel{margin-bottom:0}
+.workspace-footer{margin-top:30px;color:#9c9189;font-size:10px}
+.modal{border:0;box-shadow:0 25px 65px #160e0e35}
+.modal-head{border-bottom:1px solid #f1ece6}
+@media(max-width:1150px){.z57-chart-grid{grid-template-columns:minmax(0,1fr) minmax(280px,1fr)}.z57-chart-panel{padding:15px}}
+@media(max-width:960px){.sidebar{background:#181112}.sidebar nav{gap:4px}.z57-chart-grid{grid-template-columns:1fr 1fr}.z57-chart-panel{min-height:235px}}
+@media(max-width:720px){.z57-chart-grid{grid-template-columns:1fr}.z57-chart-panel{min-height:0}.cards{border-radius:8px}.metric{padding:15px 13px}.metric-value{font-size:24px}.z57-chart-canvas{min-height:160px}.panel{padding:16px}.workspace{padding:18px 13px 30px}}
+@media(max-width:360px){.metric-value{font-size:20px}.z57-toolbar .btn{font-size:10.5px;padding-inline:8px}}
+
+.z57-backup-actions{display:flex;flex-wrap:wrap;gap:10px;padding:5px 0 10px}
+.z57-settings-form{display:flex;align-items:flex-end;gap:14px;flex-wrap:wrap}
+.z57-settings-form .field-label{max-width:260px}
+.z57-reset-row{border-top:1px solid #f1ece5;margin-top:18px;padding-top:18px}
+.z57-inline-caution,.z57-security-note{font-size:11px;color:#897c70;line-height:1.5;margin-top:10px}
+.z57-security-note{padding:0 4px}
+/* Empty datasets use compact panels rather than large blank charts. */
+.z57-chart-panel:has(.z57-chart-empty){min-height:0;padding-bottom:18px}
+.z57-chart-panel:has(.z57-chart-empty) .z57-chart-canvas{min-height:105px}
+@media(max-width:720px){.z57-chart-panel:has(.z57-chart-empty) .z57-chart-canvas{min-height:72px}}

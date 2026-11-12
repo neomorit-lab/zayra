@@ -1,0 +1,17 @@
+# ZAYRA Fragrances
+
+ZAYRA est une boutique de décants de parfum située à Rabat, Maroc.
+
+La boutique présente 37 fragrances proposées sous forme de décants ZAYRA de 10 ml uniquement. Aucun grand flacon de marque n'est vendu sur le site. Les images de grands flacons sont des références olfactives illustratives.
+
+Quatre packs découverte sont disponibles : deux packs 2 × 10 ml, un coffret 3 × 10 ml, un coffret 4 × 10 ml.
+
+Pages principales :
+- /index.html — Accueil français
+- /ar/index.html — Accueil arabe
+- /catalogue.html — 37 décants
+- /packs.html — 4 packs de décants
+- /livraison.html — Livraison et paiement à la réception après confirmation
+- /commande.html — Préparation de la demande de commande (pas de paiement intégré)
+
+Les prix indiqués sont en dirhams marocains (MAD). Les commandes doivent être confirmées par ZAYRA.

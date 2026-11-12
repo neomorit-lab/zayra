@@ -1,0 +1,689 @@
+{
+  "pack-prada-paradoxe-burberry-her": {
+    "name": "PRADA PARADOXE + BURBERRY HER — Duo 2 × 10 ml",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/pack-prada-paradoxe-burberry-her-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Walid B.",
+      "Rania H.",
+      "Karim N.",
+      "Maya V."
+    ]
+  },
+  "pack-aventus-bleu-chanel": {
+    "name": "AVENTUS + BLEU DE CHANEL — Duo 2 × 10 ml",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/pack-aventus-bleu-chanel-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Zineb C.",
+      "Siham J.",
+      "Samir P.",
+      "Nora W."
+    ]
+  },
+  "coffret-signature-homme-3x10": {
+    "name": "COFFRET SIGNATURE HOMME — 3 × 10 ml",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/coffret-signature-homme-3x10-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Salim D.",
+      "Hiba K.",
+      "Lina R.",
+      "Inès Y."
+    ]
+  },
+  "coffret-decouverte-mixte-4x10": {
+    "name": "COFFRET DÉCOUVERTE MIXTE — 4 × 10 ml",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/coffret-decouverte-mixte-4x10-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Anas F.",
+      "Chaimae L.",
+      "Sofiane S.",
+      "Fatima Z."
+    ]
+  },
+  "creed-aventus-10ml": {
+    "name": "CREED AVENTUS",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/creed-aventus-10ml-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/creed-aventus-10ml-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Loubna G.",
+      "Othman M.",
+      "Hakim T.",
+      "Doha B."
+    ]
+  },
+  "bleu-de-chanel-edp-10ml-10ml-hommes": {
+    "name": "BLEU DE CHANEL EDP",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/bleu-de-chanel-edp-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/bleu-de-chanel-edp-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Ikram H.",
+      "Nisrine N.",
+      "Ilyas V.",
+      "Hajar C."
+    ]
+  },
+  "dior-homme-intense-10ml-10ml-hommes": {
+    "name": "DIOR HOMME INTENSE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/dior-homme-intense-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Khalid J.",
+      "Yasmine P.",
+      "Adil W.",
+      "Sami D."
+    ]
+  },
+  "sauvage-edp-10ml-10ml-hommes": {
+    "name": "SAUVAGE EDP",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/sauvage-edp-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/sauvage-edp-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Nabil K.",
+      "Hind R.",
+      "Wissam Y.",
+      "Oumaima F."
+    ]
+  },
+  "club-de-nuit-intense-10ml-10ml-hommes": {
+    "name": "CLUB DE NUIT INTENSE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/club-de-nuit-intense-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Fouad L.",
+      "Youssef S.",
+      "Omar Z.",
+      "Nour G."
+    ]
+  },
+  "acqua-di-gio-10ml-10ml-hommes": {
+    "name": "ACQUA DI GIO",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/acqua-di-gio-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Ayoub M.",
+      "Asmae T.",
+      "Rachid B.",
+      "Amina H."
+    ]
+  },
+  "acqua-di-gio-profondo-edp-10ml-10ml-hommes": {
+    "name": "ACQUA DI GIÒ PROFONDO EDP",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/acqua-di-gio-profondo-edp-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Ilham N.",
+      "Saad V.",
+      "Chafik C.",
+      "Jawad J."
+    ]
+  },
+  "light-blue-intense-10ml-10ml-hommes": {
+    "name": "LIGHT BLUE INTENSE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/light-blue-intense-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/light-blue-intense-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Aziz P.",
+      "Imane W.",
+      "Adam D.",
+      "Leïla K."
+    ]
+  },
+  "azzaro-most-wanted-10ml-10ml-hommes": {
+    "name": "AZZARO MOST WANTED",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/azzaro-most-wanted-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/azzaro-most-wanted-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Hamza R.",
+      "Soukaina Y.",
+      "Malak F.",
+      "Yahya L."
+    ]
+  },
+  "stronger-with-you-powerfully-10ml-10ml-hommes": {
+    "name": "STRONGER WITH YOU POWERFULLY",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/stronger-with-you-powerfully-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Nassima S.",
+      "Fadoua Z.",
+      "Kawtar G.",
+      "Laila M."
+    ]
+  },
+  "mancera-french-riviera-10ml-10ml-hommes": {
+    "name": "MANCERA FRENCH RIVIERA",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/mancera-french-riviera-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Sara T.",
+      "Salma B.",
+      "Yassir H.",
+      "Mouna N."
+    ]
+  },
+  "imperial-valley-gissah-10ml-10ml-hommes": {
+    "name": "IMPERIAL VALLEY GISSAH",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/imperial-valley-gissah-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Taha V.",
+      "Nawal C.",
+      "Amal J.",
+      "Aya P."
+    ]
+  },
+  "imagination-louis-vuitton-10ml": {
+    "name": "IMAGINATION LOUIS VUITTON",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/imagination-louis-vuitton-10ml-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/imagination-louis-vuitton-10ml-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Latifa W.",
+      "Rim D.",
+      "Dounia K.",
+      "Amine R."
+    ]
+  },
+  "nishane-hacivat-10ml-10ml-hommes": {
+    "name": "NISHANE HACIVAT",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/nishane-hacivat-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Mehdi Y.",
+      "Meriem F.",
+      "Bilal L.",
+      "Nada S."
+    ]
+  },
+  "naxos-by-xerjoff-10ml-10ml-hommes": {
+    "name": "NAXOS BY XERJOFF",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/naxos-by-xerjoff-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Houssam Z.",
+      "Younes G.",
+      "Kenza M.",
+      "Sanae T."
+    ]
+  },
+  "jazz-club-10ml-10ml-hommes": {
+    "name": "JAZZ CLUB",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/jazz-club-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/jazz-club-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Marouane B.",
+      "Fares H.",
+      "Aymane N.",
+      "Nadia V."
+    ]
+  },
+  "spice-bomb-extrem-10-ml-10ml-hommes": {
+    "name": "SPICEBOMB EXTREME",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/spice-bomb-extrem-10-ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Walid L.",
+      "Rania S.",
+      "Karim Z.",
+      "Maya G."
+    ]
+  },
+  "le-beau-parfum-10ml-10ml-hommes": {
+    "name": "LE BEAU PARFUM",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/le-beau-parfum-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/le-beau-parfum-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Zineb M.",
+      "Siham T.",
+      "Samir B.",
+      "Nora H."
+    ]
+  },
+  "le-beau-paradise-garden-10ml-10ml-hommes": {
+    "name": "LE BEAU PARADISE GARDEN",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/le-beau-paradise-garden-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Salim N.",
+      "Hiba V.",
+      "Lina C.",
+      "Inès J."
+    ]
+  },
+  "9pm-night-out-10-ml-10ml-hommes": {
+    "name": "9PM NIGHT OUT",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/9pm-night-out-10-ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Anas P.",
+      "Chaimae W.",
+      "Sofiane D.",
+      "Fatima K."
+    ]
+  },
+  "9pm-rebel-10ml-10ml-hommes": {
+    "name": "9PM REBEL",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/9pm-rebel-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Loubna R.",
+      "Othman Y.",
+      "Hakim F.",
+      "Doha L."
+    ]
+  },
+  "valentino-born-in-roma-intense-10ml-10ml-hommes": {
+    "name": "VALENTINO BORN IN ROMA INTENSE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/valentino-born-in-roma-intense-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Ikram S.",
+      "Nisrine Z.",
+      "Ilyas G.",
+      "Hajar M."
+    ]
+  },
+  "french-tobacco-10ml-10ml-hommes": {
+    "name": "FRENCH TOBACCO",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/french-tobacco-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/french-tobacco-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Khalid T.",
+      "Yasmine B.",
+      "Adil H.",
+      "Sami N."
+    ]
+  },
+  "arabians-tonka-10-ml-10ml-hommes": {
+    "name": "ARABIANS TONKA",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/arabians-tonka-10-ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Nabil V.",
+      "Hind C.",
+      "Wissam J.",
+      "Oumaima P."
+    ]
+  },
+  "ultra-male-10ml-10ml-hommes": {
+    "name": "ULTRA MALE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/ultra-male-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Fouad W.",
+      "Youssef D.",
+      "Omar K.",
+      "Nour R."
+    ]
+  },
+  "scandal-jean-paul-gaultier-10-ml-10ml-hommes": {
+    "name": "SCANDAL JEAN PAUL GAULTIER",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/scandal-jean-paul-gaultier-10-ml-10ml-hommes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Ayoub Y.",
+      "Asmae F.",
+      "Rachid L.",
+      "Amina S."
+    ]
+  },
+  "ysl-y-edp-10ml-10ml-hommes": {
+    "name": "YSL Y EDP",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/ysl-y-edp-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/ysl-y-edp-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Ilham Z.",
+      "Saad G.",
+      "Chafik M.",
+      "Jawad T."
+    ]
+  },
+  "sandale-wood-10ml-10ml-hommes": {
+    "name": "SANDALE WOOD",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/sandale-wood-10ml-10ml-hommes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/sandale-wood-10ml-10ml-hommes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Aziz B.",
+      "Imane H.",
+      "Adam N.",
+      "Leïla V."
+    ]
+  },
+  "bianco-latte-10ml-10ml-femmes": {
+    "name": "BIANCO LATTE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/bianco-latte-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/bianco-latte-10ml-10ml-femmes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Hamza C.",
+      "Soukaina J.",
+      "Malak P.",
+      "Yahya W."
+    ]
+  },
+  "delina-exclusif-10ml-10ml-femmes": {
+    "name": "DELINA EXCLUSIF",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/delina-exclusif-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/delina-exclusif-10ml-10ml-femmes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Nassima D.",
+      "Fadoua K.",
+      "Kawtar R.",
+      "Laila Y."
+    ]
+  },
+  "burberry-her-edp-10ml-10ml-femmes": {
+    "name": "BURBERRY HER EDP",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/burberry-her-edp-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/burberry-her-edp-10ml-10ml-femmes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Sara F.",
+      "Salma L.",
+      "Yassir S.",
+      "Mouna Z."
+    ]
+  },
+  "kayali-marshmallow-81-10ml-10ml-femmes": {
+    "name": "KAYALI MARSHMALLOW 81",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/kayali-marshmallow-81-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/kayali-marshmallow-81-10ml-10ml-femmes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Taha G.",
+      "Nawal M.",
+      "Amal T.",
+      "Aya B."
+    ]
+  },
+  "devotion-d-g-women-10ml-10ml-femmes": {
+    "name": "DEVOTION D&G WOMEN",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/devotion-d-g-women-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/devotion-d-g-women-10ml-10ml-femmes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Latifa H.",
+      "Rim N.",
+      "Dounia V.",
+      "Amine C."
+    ]
+  },
+  "hypnotic-poison-10ml-10ml-femmes": {
+    "name": "HYPNOTIC POISON",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/hypnotic-poison-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/hypnotic-poison-10ml-10ml-femmes-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Mehdi J.",
+      "Meriem P.",
+      "Bilal W.",
+      "Nada D."
+    ]
+  },
+  "imagination-louis-vuitton-10ml-10ml-femmes": {
+    "name": "IMAGINATION LOUIS VUITTON (Femmes)",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/imagination-louis-vuitton-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Houssam K.",
+      "Younes R.",
+      "Kenza Y.",
+      "Sanae F."
+    ]
+  },
+  "imperial-valley-gissah-10ml-10ml-femmes": {
+    "name": "IMPERIAL VALLEY GISSAH (Femmes)",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/imperial-valley-gissah-10ml-10ml-femmes-visuel-01.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Marouane L.",
+      "Fares S.",
+      "Aymane Z.",
+      "Nadia G."
+    ]
+  },
+  "prada-paradoxe-10ml": {
+    "name": "PRADA PARADOXE",
+    "photos": [
+      {
+        "src": "assets/images/v49_avis_decants/prada-paradoxe-10ml-visuel-01.webp",
+        "kind": "illustration_phone"
+      },
+      {
+        "src": "assets/images/v49_avis_decants/prada-paradoxe-10ml-visuel-02.webp",
+        "kind": "visuel_catalogue"
+      }
+    ],
+    "preview_names": [
+      "Walid W.",
+      "Rania D.",
+      "Karim K.",
+      "Maya R."
+    ]
+  }
+}

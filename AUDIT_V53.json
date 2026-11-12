@@ -1,0 +1,9 @@
+{
+  "html_pages": 109,
+  "indexable": 100,
+  "product_pages": 82,
+  "images_checked": 1166,
+  "errors": [],
+  "warnings": [],
+  "note": "Audit statique; ne mesure ni Core Web Vitals, ni indexation ni rendu interactif du site."
+}
